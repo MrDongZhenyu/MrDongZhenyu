@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+## 🔭 I’m currently working on MMF imaging
+## 🌱 I’m currently learning machine learning
 <!--
 **MrDongZhenyu/MrDongZhenyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
