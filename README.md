@@ -10,7 +10,7 @@
 ![Python](https://img.shields.io/badge/-Python-%231572B6?style=flat-square&logo=Python&logoColor=ffffff) 
 ![Matlab](https://img.shields.io/badge/-Matlab-%23F05032?style=flat-square&logo=Mathworks&logoColor=ffffff) 
 ![C](https://img.shields.io/badge/-C-%23CC6699?style=flat-square&logo=C&logoColor=ffffff)
-![LaTex](https://img.shields.io/badge/-LaTex-%23282C34?style=flat-square&logo=LaTex&logoColor=ffffff)
+![LaTex](https://img.shields.io/badge/-LaTex-black?style=flat-square&logo=LaTex&logoColor=ffffff)
 ### Tools 🛠️
 Solidworks Zemax Labview FDTD ImageJ
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
