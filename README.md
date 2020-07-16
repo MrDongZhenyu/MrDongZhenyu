@@ -3,7 +3,7 @@
 ## Hi there, 👋
 ### 😄 I'm a master student from Zhejiang Univerity, China
 ### 🔭 I’m currently working on MMF imaging
-### 🌱 I’m interested in Computational imaging，Optical theory and Deep learning
+### 🌱 I’m interested in Computational imaging, Optical theory and Deep learning
 
 #### Programming Languages 🌐
 Python Matlab C LateX
