@@ -7,7 +7,7 @@
 ### 🌱 I’m interested in Computational imaging, Optical theory and Deep learning
 
 ### Programming Languages 🌐
-Python ![Matlab](https://img.shields.io/badge/-Matlab-181717?style=flat-square&logo=Mathworks) C LateX
+Python ![Matlab](https://img.shields.io/badge/-Matlab-%23F05032?style=flat-square&logo=Mathworks) C LateX
 ### Tools 🛠️
 Solidworks Zemax Labview FDTD VScode ImageJ
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
