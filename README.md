@@ -5,9 +5,9 @@
 ### 🔭 I’m currently working on MMF imaging
 ### 🌱 I’m interested in Computational imaging, Optical theory and Deep learning
 
-#### Programming Languages 🌐
+### Programming Languages 🌐
 Python Matlab C LateX
-#### Tools 🛠️
+### Tools 🛠️
 Solidworks Zemax Labview FDTD VScode ImageJ
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 <!--
