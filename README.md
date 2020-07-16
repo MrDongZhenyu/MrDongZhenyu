@@ -11,6 +11,9 @@ Python Matlab C LateX
 Solidworks Zemax Labview FDTD VScode ImageJ
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 
+![github stats](https://github-readme-stats.vercel.app/api?username=MrDongZhenyu&show_icons=true)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=MrDongZhenyu.MrDongZhenyu)
 ---
 
 ⭐️ From [Zhenyu Dong](https://github.com/MrDongZhenyu)
