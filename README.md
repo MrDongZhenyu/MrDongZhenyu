@@ -13,8 +13,6 @@ Solidworks Zemax Labview FDTD VScode ImageJ
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=MrDongZhenyu&show_icons=true)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=MrDongZhenyu.MrDongZhenyu)
-
 [![HitCount](http://hits.dwyl.com/MrDongZhenyu/MrDongZhenyu.svg)](http://hits.dwyl.com/MrDongZhenyu/MrDongZhenyu)
 
 ---
