@@ -13,7 +13,8 @@
 ![LaTex](https://img.shields.io/badge/-LaTex-black?style=flat-square&logo=LaTex&logoColor=ffffff)
 ### Tools 🛠️
 <a href="https://icon-library.net/icon/solidworks-icon-8.html" title="Solidworks Icon #259830"><img src="https://icon-library.net//images/solidworks-icon/solidworks-icon-8.jpg" width="350" /></a>
-Solidworks Zemax Labview FDTD ImageJ
+Solidworks Zemax FDTD ImageJ
+![Labview](http://img.shields.io/badge/-Labview-FFDB00?style=flat-square&logo=Labview&logoColor=ffffff)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=MrDongZhenyu&show_icons=true)
