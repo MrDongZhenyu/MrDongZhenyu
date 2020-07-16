@@ -12,18 +12,6 @@ Python Matlab C LateX
 Solidworks Zemax Labview FDTD VScode ImageJ
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 
+---
+
 ⭐️ From [Zhenyu Dong](https://github.com/MrDongZhenyu)
-<!--
-**MrDongZhenyu/MrDongZhenyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-## 🔭 I’m currently working on MMF imaging
-## 🌱 I’m currently learning machine learning
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
