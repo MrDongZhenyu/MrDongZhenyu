@@ -1,7 +1,7 @@
 # Zhenyu Dong
 [![Gmail Badge](https://img.shields.io/badge/-kevinzjudzy@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kevinzjudzy@gmail.com)](mailto:kevinzjudzy@gmail.com)
 ## Hi there, 👋
-### 😄 I'm a master student from Zhejiang Univerity, China
+### 😄 I'm a master student from State Key Lab of Modern Optical Instrumentation, Zhejiang Univerity, China
 ### 🔭 I’m currently working on MMF imaging
 ### 🌱 I’m interested in Computational imaging, Optical theory and Deep learning
 
