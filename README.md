@@ -12,11 +12,10 @@
 ![C](https://img.shields.io/badge/-C-%23CC6699?style=flat-square&logo=C&logoColor=ffffff)
 ![LaTex](https://img.shields.io/badge/-LaTex-black?style=flat-square&logo=LaTex&logoColor=ffffff)
 ### Tools 🛠️
-Solidworks Zemax FDTD ImageJ
-[![ImageJ](https://travis-ci.org/imagej/imagej.svg?branch=master)](https://travis-ci.org/imagej/imagej)
 ![Labview](http://img.shields.io/badge/-Labview-yellow?style=flat-square&logo=Labview&logoColor=ffffff)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![Jupyter](http://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=ffffff)
+Solidworks，Zemax，FDTD，ImageJ
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=MrDongZhenyu&show_icons=true)
 
