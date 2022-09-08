@@ -2,8 +2,8 @@
 [![Gmail Badge](https://img.shields.io/badge/-kevinzjudzy@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kevinzjudzy@gmail.com)](mailto:kevinzjudzy@gmail.com)  [![GitHub](https://img.shields.io/badge/-@MrDongZhenyu-181717?style=flat-square&logo=github)](https://github.com/MrDongZhenyu) [![GoogleScholar](https://img.shields.io/badge/-@ZhenyuDong-181717?style=flat-square&logo=Google-Scholar)](https://scholar.google.com/citations?hl=zh-CN&user=AdfsIC0AAAAJ)
 
 ## Hi there, 👋
-### 😄 I'm a master student from State Key Lab of Modern Optical Instrumentation, Zhejiang Univerity, China
-### 🔭 I’m currently working on MMF imaging
+### 😄 I'm a Phd student from California Institute of Technology
+### 🔭 I’m currently working on Computational imaging
 ### 🌱 I’m interested in Computational imaging, Optical theory and Deep learning
 
 ### Programming Languages 🌐
